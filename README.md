@@ -8,6 +8,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nionx01/polar-black-theme/refs/heads/main/promoImage1.jpg" alt="Polar Black Preview 1" width="49%">
+  <img src="https://raw.githubusercontent.com/nionx01/polar-black-theme/refs/heads/main/promoImage2.jpg" alt="Polar Black Preview 2" width="49%">
+</p>
+
+---
+
 ## Features
 
 ### Color Themes
@@ -102,16 +109,6 @@ Polar Black is for developers who want:
 - **Clean aesthetics** - pure black and white chrome
 - **OLED-friendly** - true black saves battery
 - **Colorful code** - because code shouldn't be boring
-
-## Screenshots
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nionx01/polar-black-theme/refs/heads/main/promoImage1.jpg" alt="Polar Black Preview 1" width="800">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nionx01/polar-black-theme/refs/heads/main/promoImage2.jpg" alt="Polar Black Preview 2" width="800">
-</p>
 
 ## Development
 
