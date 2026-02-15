@@ -1,6 +1,12 @@
-# Polar Black - Complete Theme Suite
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nionx01/polar-black-theme/refs/heads/main/polar_black_text_logo.png" alt="Polar Black Logo" width="500">
+</p>
 
-A **pure black** VSCode theme suite featuring three color themes, custom file/folder icons, and 120+ product UI icons.
+<p align="center">
+  <strong>A pure black VSCode theme suite featuring three color themes, custom file/folder icons, and 120+ product UI icons.</strong>
+</p>
+
+---
 
 ## Features
 
@@ -99,7 +105,13 @@ Polar Black is for developers who want:
 
 ## Screenshots
 
-*Coming soon*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nionx01/polar-black-theme/refs/heads/main/promoImage1.jpg" alt="Polar Black Preview 1" width="800">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nionx01/polar-black-theme/refs/heads/main/promoImage2.jpg" alt="Polar Black Preview 2" width="800">
+</p>
 
 ## Development
 
@@ -118,3 +130,13 @@ Issues and pull requests welcome at [GitHub](https://github.com/nionx01/polar-bl
 ## License
 
 [MIT](LICENSE)
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nionx01/polar-black-theme/refs/heads/main/polar_black_text_logo_icon.jpg" alt="Polar Black" width="120">
+</p>
+
+<p align="center">
+  Made with care for developers who love the dark side.
+</p>
