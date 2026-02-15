@@ -4,6 +4,7 @@ node_modules
 *.log
 .DS_Store
 Thumbs.db
+.claude
 
 # Source assets - do not leak
 *.svg
