@@ -1,0 +1,11 @@
+node_modules
+*.vsix
+.vscode-test/
+*.log
+.DS_Store
+Thumbs.db
+
+# Source assets - do not leak
+*.svg
+*.woff
+*.woff2

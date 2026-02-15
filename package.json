@@ -1,0 +1,65 @@
+{
+  "name": "polar-black-icons",
+  "displayName": "Polar Black",
+  "description": "A beautiful, comprehensive icon theme with custom file/folder icons and product UI icons for Visual Studio Code",
+  "version": "0.0.1",
+  "publisher": "ben1amyn77",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "themes",
+    "icons",
+    "icon theme",
+    "file icons",
+    "folder icons",
+    "product icons",
+    "ui icons",
+    "polar black"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Polar Black Default Color",
+        "uiTheme": "vs-dark",
+        "path": "./themes/polar-black-color-theme.json"
+      },
+      {
+        "label": "Polar Black Vibrant Color",
+        "uiTheme": "vs-dark",
+        "path": "./themes/polar-black-vibrant-color-theme.json"
+      },
+      {
+        "label": "Polar Black Ice Color",
+        "uiTheme": "vs-dark",
+        "path": "./themes/polar-black-ice-color-theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "polar-black-icons-default",
+        "label": "Polar Black Icons",
+        "path": "./themes/polar_black_icons.json"
+      }
+    ],
+    "productIconThemes": [
+      {
+        "id": "polar-black-ui",
+        "label": "Polar Black Product Icons",
+        "path": "./themes/polar-black-product-icons.json"
+      }
+    ]
+  },
+  "icon": "polar_black_logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nionx01/polar-black-icons"
+  },
+  "bugs": {
+    "url": "https://github.com/nionx01/polar-black-icons/issues"
+  },
+  "license": "MIT"
+}
