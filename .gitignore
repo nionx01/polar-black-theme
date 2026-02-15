@@ -6,6 +6,7 @@ node_modules
 Thumbs.db
 .claude/
 .vscode/
+.gitignore
 
 # Source assets - do not leak
 *.svg
