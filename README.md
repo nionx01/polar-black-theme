@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nionx01/polar-black-theme/refs/heads/main/polar_black_text_logo_icon_n0.1.jpg" alt="Polar Black Logo" width="500">
+  <img src="https://raw.githubusercontent.com/nionx01/polar-black-theme/refs/heads/main/polar_black_text_logo_icon_0.1.jpg" alt="Polar Black Logo" width="500">
 </p>
 
 <p align="center">
