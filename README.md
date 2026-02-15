@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nionx01/polar-black-theme/refs/heads/main/polar_black_text_logo.png" alt="Polar Black Logo" width="500">
+  <img src="[https://raw.githubusercontent.com/nionx01/polar-black-theme/refs/heads/main/polar_black_text_logo.png" alt="Polar Black Logo" width="500">
 </p>
 
 <p align="center">
@@ -134,7 +134,7 @@ Issues and pull requests welcome at [GitHub](https://github.com/nionx01/polar-bl
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nionx01/polar-black-theme/refs/heads/main/polar_black_text_logo_icon.jpg" alt="Polar Black" width="120">
+  <img src="https://raw.githubusercontent.com/nionx01/polar-black-theme/refs/heads/main/polar_black_text_logo_n0.1.png" alt="Polar Black" width="120">
 </p>
 
 <p align="center">
