@@ -7,6 +7,7 @@ Thumbs.db
 .claude/
 .vscode/
 .gitignore
+.env
 
 # Source assets - do not leak
 *.svg

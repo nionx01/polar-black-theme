@@ -4,482 +4,699 @@
       "id": "polar-black-font",
       "src": [
         {
-          "path": "../icons/folders/ui_icons/polar_black-ui-icons.woff2",
-          "format": "woff"
+          "path": "./polar_black-ui-icons.woff2",
+          "format": "woff2"
         }
       ],
       "weight": "normal",
-      "style": "normal"
+      "style": "normal",
+      "size": "100%"
     }
   ],
   "iconDefinitions": {
     "account": {
-      "fontCharacter": "\uf19d"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "activate-breakpoints": {
-      "fontCharacter": "\uf19c"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "add": {
-      "fontCharacter": "\uf19b"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "arrow-down": {
-      "fontCharacter": "\uf19a"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "arrow-left": {
-      "fontCharacter": "\uf199"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "arrow-right": {
-      "fontCharacter": "\uf198"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "arrow-up": {
-      "fontCharacter": "\uf197"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "beaker": {
-      "fontCharacter": "\uf195"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "bell": {
-      "fontCharacter": "\uf193"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "bell-dot": {
-      "fontCharacter": "\uf194"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "book": {
-      "fontCharacter": "\uf192"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "bracket": {
-      "fontCharacter": "\uf191"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "bug": {
-      "fontCharacter": "\uf190"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "call-incoming": {
-      "fontCharacter": "\uf18f"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "call-outgoing": {
-      "fontCharacter": "\uf18e"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "case-sensitive": {
-      "fontCharacter": "\uf18d"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "check": {
-      "fontCharacter": "\uf18b"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "chevron-down": {
-      "fontCharacter": "\uf18a"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "chevron-left": {
-      "fontCharacter": "\uf189"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "chevron-right": {
-      "fontCharacter": "\uf188"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "chevron-up": {
-      "fontCharacter": "\uf187"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "circle-large-outline": {
-      "fontCharacter": "\uf186"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "clear-all": {
-      "fontCharacter": "\uf185"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "close": {
-      "fontCharacter": "\uf183"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "close-all": {
-      "fontCharacter": "\uf184"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "cloud-download": {
-      "fontCharacter": "\uf182"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "code": {
-      "fontCharacter": "\uf181"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "collapse-all": {
-      "fontCharacter": "\uf17f"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "comment": {
-      "fontCharacter": "\uf17d"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "comment-discussion": {
-      "fontCharacter": "\uf17e"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "compare-changes": {
-      "fontCharacter": "\uf17c"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "debug": {
-      "fontCharacter": "\uf16b"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "debug-alt": {
-      "fontCharacter": "\uf17b"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "debug-console": {
-      "fontCharacter": "\uf17a"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "debug-continue": {
-      "fontCharacter": "\uf179"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "debug-disconnect": {
-      "fontCharacter": "\uf178"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "debug-pause": {
-      "fontCharacter": "\uf177"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "debug-restart": {
-      "fontCharacter": "\uf175"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "debug-restart-frame": {
-      "fontCharacter": "\uf176"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "debug-reverse-continue": {
-      "fontCharacter": "\uf174"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "debug-stackframe": {
-      "fontCharacter": "\uf173"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "debug-start": {
-      "fontCharacter": "\uf171"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "debug-step-back": {
-      "fontCharacter": "\uf170"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "debug-step-into": {
-      "fontCharacter": "\uf16f"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "debug-step-out": {
-      "fontCharacter": "\uf16e"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "debug-step-over": {
-      "fontCharacter": "\uf16d"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "debug-stop": {
-      "fontCharacter": "\uf16c"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "discard": {
-      "fontCharacter": "\uf169"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "edit": {
-      "fontCharacter": "\uf168"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "ellipsis": {
-      "fontCharacter": "\uf167"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "error": {
-      "fontCharacter": "\uf166"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "exclude": {
-      "fontCharacter": "\uf165"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "expand-all": {
-      "fontCharacter": "\uf164"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "explorer-view-icon": {
-      "fontCharacter": "\uf163"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "extensions": {
-      "fontCharacter": "\uf160"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "extensions-view-icon": {
-      "fontCharacter": "\uf160"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "eye": {
-      "fontCharacter": "\uf15f"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "file-code": {
-      "fontCharacter": "\uf15e"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "file-directory": {
-      "fontCharacter": "\uf15d"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "files": {
-      "fontCharacter": "\uf15c"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "filter": {
-      "fontCharacter": "\uf15b"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "folder": {
-      "fontCharacter": "\uf15a"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "gear": {
-      "fontCharacter": "\uf159"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "git-commit": {
-      "fontCharacter": "\uf157"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "gitlens-commit-horizontal": {
-      "fontCharacter": "\uf156"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "gitlens-gitlens": {
-      "fontCharacter": "\uf155"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "gitlens-graph": {
-      "fontCharacter": "\uf154"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "gitlens-next-commit": {
-      "fontCharacter": "\uf153"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "gitlens-prev-commit": {
-      "fontCharacter": "\uf152"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "go-to-file": {
-      "fontCharacter": "\uf151"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "gripper": {
-      "fontCharacter": "\uf150"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "heart": {
-      "fontCharacter": "\uf14f"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "history": {
-      "fontCharacter": "\uf14e"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "info": {
-      "fontCharacter": "\uf14d"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "issues": {
-      "fontCharacter": "\uf14c"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "keyboard": {
-      "fontCharacter": "\uf14b"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "layout": {
-      "fontCharacter": "\uf14a"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "lightbulb": {
-      "fontCharacter": "\uf149"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "link-external": {
-      "fontCharacter": "\uf148"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "list-flat": {
-      "fontCharacter": "\uf147"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "list-selection": {
-      "fontCharacter": "\uf146"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "list-tree": {
-      "fontCharacter": "\uf145"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "live-share": {
-      "fontCharacter": "\uf144"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "lock": {
-      "fontCharacter": "\uf143"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "new-file": {
-      "fontCharacter": "\uf142"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "new-folder": {
-      "fontCharacter": "\uf141"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "notifications-do-not-disturb": {
-      "fontCharacter": "\uf140"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "output": {
-      "fontCharacter": "\uf13f"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "paintcan": {
-      "fontCharacter": "\uf13e"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "pass": {
-      "fontCharacter": "\uf13c"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "pass-filled": {
-      "fontCharacter": "\uf13d"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "pencil": {
-      "fontCharacter": "\uf13b"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "pin": {
-      "fontCharacter": "\uf13a"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "pinned": {
-      "fontCharacter": "\uf139"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "play": {
-      "fontCharacter": "\uf137"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "play-all": {
-      "fontCharacter": "\uf138"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "plug": {
-      "fontCharacter": "\uf136"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "plus": {
-      "fontCharacter": "\uf135"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "preserve-case": {
-      "fontCharacter": "\uf134"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "preview": {
-      "fontCharacter": "\uf133"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "record-keys": {
-      "fontCharacter": "\uf132"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "refresh": {
-      "fontCharacter": "\uf131"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "regex": {
-      "fontCharacter": "\uf130"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "remote-explorer": {
-      "fontCharacter": "\uf12f"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "remove": {
-      "fontCharacter": "\uf12e"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "replace": {
-      "fontCharacter": "\uf12c"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "replace-all": {
-      "fontCharacter": "\uf12d"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "rocket": {
-      "fontCharacter": "\uf12b"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "run": {
-      "fontCharacter": "\uf12a"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "run-view-icon": {
-      "fontCharacter": "\uf17b"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "search": {
-      "fontCharacter": "\uf129"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "search-save": {
-      "fontCharacter": "\uf128"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "search-stop": {
-      "fontCharacter": "\uf127"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "search-view-icon": {
-      "fontCharacter": "\uf129"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "selection": {
-      "fontCharacter": "\uf125"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "send": {
-      "fontCharacter": "\uf124"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "server": {
-      "fontCharacter": "\uf121"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "server-environment": {
-      "fontCharacter": "\uf123"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "server-process": {
-      "fontCharacter": "\uf122"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "settings": {
-      "fontCharacter": "\uf11d"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "settings-gear": {
-      "fontCharacter": "\uf120"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "settings-view-bar-icon": {
-      "fontCharacter": "\uf11e"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "shield": {
-      "fontCharacter": "\uf11c"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "sort-precedence": {
-      "fontCharacter": "\uf11b"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "source-control": {
-      "fontCharacter": "\uf158"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "source-control-view-icon": {
-      "fontCharacter": "\uf158"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "sparkle": {
-      "fontCharacter": "\uf119"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "split-horizontal": {
-      "fontCharacter": "\uf118"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "split-vertical": {
-      "fontCharacter": "\uf117"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "star": {
-      "fontCharacter": "\uf114"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "star-full": {
-      "fontCharacter": "\uf116"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "star-half": {
-      "fontCharacter": "\uf115"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "stop": {
-      "fontCharacter": "\uf113"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "symbol-class": {
-      "fontCharacter": "\uf112"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "sync": {
-      "fontCharacter": "\uf110"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "sync-ignored": {
-      "fontCharacter": "\uf111"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "terminal": {
-      "fontCharacter": "\uf10f"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "tools": {
-      "fontCharacter": "\uf10d"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "trash": {
-      "fontCharacter": "\uf10c"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "triangle-down": {
-      "fontCharacter": "\uf10b"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "triangle-left": {
-      "fontCharacter": "\uf10a"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "triangle-right": {
-      "fontCharacter": "\uf109"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "triangle-up": {
-      "fontCharacter": "\uf108"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "unfold": {
-      "fontCharacter": "\uf107"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "warning": {
-      "fontCharacter": "\uf105"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "watch": {
-      "fontCharacter": "\uf104"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "whitespace": {
-      "fontCharacter": "\uf103"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "whole-word": {
-      "fontCharacter": "\uf102"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "window": {
-      "fontCharacter": "\uf101"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "auxiliarybar-maximize": {
-      "fontCharacter": "\uf196"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "chat-sparkle": {
-      "fontCharacter": "\uf18c"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "code-review": {
-      "fontCharacter": "\uf180"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "diff-multiple": {
-      "fontCharacter": "\uf16a"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "extension-activation-time": {
-      "fontCharacter": "\uf162"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "extensions-install-count": {
-      "fontCharacter": "\uf161"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     },
     "text-uppercase": {
-      "fontCharacter": "\uf10e"
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
+    },
+    "debug-stackframe-dot": {
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
+    },
+    "debug-alt-small": {
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
+    },
+    "debug-line-by-line": {
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
+    },
+    "debug-coverage": {
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
+    },
+    "run-all": {
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
+    },
+    "run-above": {
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
+    },
+    "run-below": {
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
+    },
+    "record": {
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
+    },
+    "loading": {
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
+    },
+    "toolbar-more": {
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
+    },
+    "notebook-execute": {
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
+    },
+    "notebook-execute-all": {
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
+    },
+    "terminal-run": {
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
+    },
+    "terminal-kill": {
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
+    },
+    "testing-run-icon": {
+      "fontCharacter": "",
+      "fontId": "polar-black-font"
     }
   }
 }
