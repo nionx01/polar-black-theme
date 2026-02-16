@@ -2,7 +2,7 @@
   "name": "polar-black-themes",
   "displayName": "Polar Black",
   "description": "A beautiful, comprehensive icon theme with custom file/folder icons and product UI icons for Visual Studio Code",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "nionx01",
   "engines": {
     "vscode": "^1.80.0"

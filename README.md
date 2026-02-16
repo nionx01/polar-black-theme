@@ -84,7 +84,7 @@ All three themes share:
 
 ### From Command Line
 ```bash
-code --install-extension polar-black-icons-0.0.1.vsix
+code --install-extension polar-black-icons-0.0.3.vsix
 ```
 
 ## Activation
