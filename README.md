@@ -135,5 +135,5 @@ Issues and pull requests welcome at [GitHub](https://github.com/nionx01/polar-bl
 </p>
 
 <p align="center">
-  Made with care for developers who love the dark side.
+  Made with care for developers who love the dark side. © NionX01 all right deserved.
 </p>
