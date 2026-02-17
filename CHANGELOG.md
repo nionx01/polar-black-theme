@@ -2,7 +2,7 @@
 
 All notable changes to the "Polar Black" extension will be documented in this file.
 
-## [0.0.1] - 2026-02-15
+## [0.0.1] - [0.0.3] - 2026-02-15
 
 ### Added
 - **Polar Black Default Color** - Muted syntax color theme on pure black background with white UI accent

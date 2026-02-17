@@ -4,11 +4,16 @@
   "description": "A beautiful, comprehensive icon theme with custom file/folder icons and product UI icons for Visual Studio Code",
   "version": "0.0.3",
   "publisher": "nionx01",
+  "main": "./extension.js",
   "engines": {
     "vscode": "^1.80.0"
   },
+  "activationEvents": [
+    "onStartupFinished"
+  ],
   "categories": [
-    "Themes"
+    "Themes",
+    "Other"
   ],
   "keywords": [
     "themes",
@@ -57,7 +62,17 @@
         "label": "Polar Black Product Icons",
         "path": "./themes/polar-black-product-icons.json"
       }
-    ]
+    ],
+    "configuration": {
+      "title": "Polar Black",
+      "properties": {
+        "polarBlack.colorHighlight.enable": {
+          "type": "boolean",
+          "default": true,
+          "description": "Enable or disable inline color highlighting for color values (hex, rgb, rgba, hsl, hsla)."
+        }
+      }
+    }
   },
   "icon": "polar_black_logo.png",
   "repository": {
