@@ -3,7 +3,16 @@
 </p>
 
 <p align="center">
-  <strong>A pure black VSCode theme suite featuring three color themes, custom file/folder icons, and 120+ product UI icons.</strong>
+  <strong>The ultimate pure black VS Code theme suite — 9 color themes, 1100+ file icons, and 200+ product UI icons.</strong>
+</p>
+
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=nionx01.polar-black-themes">
+    <img src="https://img.shields.io/badge/VS%20Code-Marketplace-007ACC?logo=visual-studio-code" alt="Marketplace">
+  </a>
+  <img src="https://img.shields.io/badge/themes-9-000000" alt="9 Themes">
+  <img src="https://img.shields.io/badge/icons-1100+-000000" alt="1100+ Icons">
+  <img src="https://img.shields.io/badge/license-MIT-000000" alt="MIT License">
 </p>
 
 ---
@@ -15,114 +24,97 @@
 
 ---
 
-## Features
+## Color Themes
 
-### Color Themes
+Polar Black ships with **9 distinct color themes** — all built on a true black foundation for maximum contrast and OLED efficiency.
 
-**Polar Black Default Color** - Muted, easy-on-the-eyes syntax palette on pure black.
+### Dark Themes
 
-| Token | Color |
-|-------|-------|
-| Strings | `#a3c679` |
-| Keywords | `#6ebad7` |
-| Functions | `#6a90d0` |
-| Storage | `#a178c4` |
-| Types/Classes | `#d5b05f` |
-| Numbers | `#cd775c` |
-| Booleans | `#d6808f` |
-| Comments | `#45454A` |
+> **Polar Black Default** — The flagship. Muted, balanced syntax colors with a clean white UI accent. Easy on the eyes for long coding sessions.
 
-**Polar Black Vibrant Color** - Same structure, cranked-up saturated colors for maximum pop.
+> **Polar Black Vibrant** — Same structure as Default but with cranked-up saturated neon colors for developers who want maximum pop.
 
-| Token | Color |
-|-------|-------|
-| Strings | `#7EE787` |
-| Keywords | `#56D4F0` |
-| Functions | `#5C9EFF` |
-| Storage | `#BD7EFF` |
-| Types/Classes | `#FFD64F` |
-| Numbers | `#FF8C42` |
-| Booleans | `#FF6B8A` |
-| Comments | `#555560` |
+> **Polar Black Ice** — A cold, frosty palette. Icy mint strings, steel blue functions, frost green types, and a blue-white UI accent that feels like coding in a snowstorm.
 
-**Polar Black Ice Color** - Same code colors as Default, with a frosty blue-white UI accent.
+> **Polar Black Cherry Blossom** — A soft sakura-inspired palette. Pink strings, rose keywords, orchid purple functions, and warm peach numbers wrapped in a delicate pink UI accent.
 
-| Element | Color |
-|---------|-------|
-| UI accent | `#B8DCE8` |
-| Foreground | `#D8EDF5` |
-| Sidebar text | `#4A5866` |
-| Subtle bg | `#0D1820` |
+> **Polar Black Savanna** — Warm African earth tones. Golden grass strings, amber keywords, bronze functions, terracotta numbers, and a rich gold UI accent.
 
-All three themes share:
-- **True black background** (`#000000`) - OLED friendly
-- Same muted code syntax palette (Default & Ice) or vibrant palette (Vibrant)
-- Buttons, badges, active borders, tabs, links tinted by the theme accent
+> **Polar Black Green Cactus** — A lush desert garden palette. Bright cactus green strings, emerald keywords, jade functions, and a vibrant green UI accent.
 
-### File & Folder Icons
+> **Polar Black Red** — A bold crimson palette. Bright red strings, crimson keywords, rose functions, and a striking red UI accent for those who like it intense.
 
-- Hundreds of file type icons (JavaScript, TypeScript, Python, Rust, Go, and more)
-- Context-aware folder icons (components, api, config, tests, etc.)
-- **Carbon variant** - Dark folder icons
-- **White accents** - For perfect visibility on dark themes
+> **Polar Black Less Black Smoke** — For those who prefer a slightly softer dark background. Same syntax colors as Default, but on a dark smoke gray background instead of pure black.
 
-### Product UI Icons
+### Light Theme
 
-- **120+ custom icons** in a dedicated font
-- Covers all core VS Code UI: explorer, search, source control, debug, extensions, settings, terminal, and more
+> **Polar Black Light** — A full light mode experience. Bright white background with carefully tuned dark syntax colors for perfect readability in well-lit environments.
+
+---
+
+## File & Folder Icons
+
+- **1100+ file type icons** covering every major language and framework
+- Context-aware folder icons — components, api, config, tests, hooks, and more
+- Dark carbon folder variants with white accents for perfect visibility
+- Constantly expanding coverage
+
+## Product UI Icons
+
+- **200+ custom UI icons** in a dedicated icon font
+- Full coverage of VS Code core UI — explorer, search, source control, debug, extensions, settings, terminal, and more
 - GitLens integration icons included
-- Pure white on black - consistent with the theme
+- Consistent minimal aesthetic throughout
+
+## Inline Color Highlight
+
+Built-in color highlighting that detects and displays hex, RGB, RGBA, HSL, and HSLA color values directly in your code. Toggle it on or off in settings.
+
+---
 
 ## Installation
 
-### From VSIX
-1. Download the `.vsix` file
-2. Open VS Code
-3. Press `Ctrl+Shift+P`
-4. Type "Extensions: Install from VSIX"
-5. Select the downloaded file
+### VS Code Marketplace
+1. Open VS Code
+2. Go to Extensions (`Ctrl+Shift+X`)
+3. Search for **"Polar Black"**
+4. Click Install
 
-### From Command Line
+### From VSIX
 ```bash
-code --install-extension polar-black-icons-0.0.3.vsix
+code --install-extension polar-black-themes-0.0.6.vsix
 ```
 
 ## Activation
 
-### Color Theme
-1. Press `Ctrl+Shift+P` > "Color Theme"
-2. Select **Polar Black Default Color**, **Polar Black Vibrant Color**, or **Polar Black Ice Color**
+**Color Theme** — `Ctrl+Shift+P` > "Color Theme" > Select any Polar Black variant
 
-### File Icon Theme
-1. Press `Ctrl+Shift+P` > "File Icon Theme"
-2. Select **Polar Black Icons**
+**File Icons** — `Ctrl+Shift+P` > "File Icon Theme" > **Polar Black Icons**
 
-### Product Icon Theme
-1. Press `Ctrl+Shift+P` > "Product Icon Theme"
-2. Select **Polar Black Product Icons**
+**Product Icons** — `Ctrl+Shift+P` > "Product Icon Theme" > **Polar Black Product Icons**
+
+---
 
 ## Philosophy
 
-Polar Black is for developers who want:
-- **Maximum contrast** for reduced eye strain
-- **Minimal UI distractions** - white accent only
-- **Clean aesthetics** - pure black and white chrome
-- **OLED-friendly** - true black saves battery
-- **Colorful code** - because code shouldn't be boring
+Polar Black is built for developers who want:
+- **Maximum contrast** — true black reduces eye strain
+- **OLED friendly** — pure black pixels are off pixels
+- **Minimal chrome** — UI stays out of your way
+- **Expressive code** — syntax colors that are distinct and readable
+- **Choice** — 8 themes means there is one that fits your mood
 
 ## Development
 
-### Testing
-Press `F5` in VS Code to open an Extension Development Host window.
+Press `F5` in VS Code to launch the Extension Development Host for testing.
 
-### Packaging
 ```bash
 npx @vscode/vsce package
 ```
 
 ## Contributing
 
-Issues and pull requests welcome at [GitHub](https://github.com/nionx01/polar-black-icons).
+Issues and pull requests welcome on [GitHub](https://github.com/nionx01/polar-black-theme).
 
 ## License
 
@@ -135,5 +127,6 @@ Issues and pull requests welcome at [GitHub](https://github.com/nionx01/polar-bl
 </p>
 
 <p align="center">
-  Made with care for developers who love the dark side. © NionX01 all right deserved.
+  Made with care for developers who love the dark side.<br>
+  &copy; NionX01
 </p>

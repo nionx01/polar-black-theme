@@ -2,7 +2,7 @@
   "name": "polar-black-themes",
   "displayName": "Polar Black",
   "description": "A beautiful, comprehensive icon theme with custom file/folder icons and product UI icons for Visual Studio Code",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "publisher": "nionx01",
   "main": "./extension.js",
   "engines": {
@@ -24,10 +24,17 @@
     "product icons",
     "ui icons",
     "polar black",
+    "black",
     "theme",
     "color",
     "vibrant",
     "dark",
+    "light",
+    "cherry blossom",
+    "savanna",
+    "green cactus",
+    "smoke",
+    "red",
     "polar black themes",
     "polar black theme"
   ],
@@ -47,6 +54,36 @@
         "label": "Polar Black Ice Color",
         "uiTheme": "vs-dark",
         "path": "./themes/polar-black-ice-color-theme.json"
+      },
+      {
+        "label": "Polar Black Cherry Blossom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/polar-black-cherry-blossom-color-theme.json"
+      },
+      {
+        "label": "Polar Black Light",
+        "uiTheme": "vs",
+        "path": "./themes/polar-black-light-color-theme.json"
+      },
+      {
+        "label": "Polar Black Savanna",
+        "uiTheme": "vs-dark",
+        "path": "./themes/polar-black-savanna-color-theme.json"
+      },
+      {
+        "label": "Polar Black Green Cactus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/polar-black-green-cactus-color-theme.json"
+      },
+      {
+        "label": "Polar Black Less Black Smoke",
+        "uiTheme": "vs-dark",
+        "path": "./themes/polar-black-less-black-smoke-color-theme.json"
+      },
+      {
+        "label": "Polar Black Red",
+        "uiTheme": "vs-dark",
+        "path": "./themes/polar-black-red-color-theme.json"
       }
     ],
     "iconThemes": [
